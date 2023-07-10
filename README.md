@@ -19,7 +19,7 @@ Project title: Crystal
          Vo Nhat Hoang              Student1459127
 ============================
 
-eProject documentation at 
+eProject documentation at https://github.com/da19tta/g6.crystal/tree/main/document
 
 ============================
 
