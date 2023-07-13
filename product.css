@@ -312,9 +312,6 @@
 	bottom: 0;
 	
 }
-.hihi{
-	margin: 0px 20px;
-}
 .buton button{
 	margin:0px;
 	
@@ -483,7 +480,7 @@ div.tab1 button.active1 {
 	.logo{
 		width: 140px;
 		margin-left: -30px;
-		background-image: url('../IMG/logo2-no-bg.png');
+		background-image: url('IMG/LOGO.jpg');
 	}
 	.top-header{
 		height: 60px;
