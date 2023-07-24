@@ -235,12 +235,9 @@
 .map iframe {
     pointer-events: none;
 }
-
-
-/* Footer */
-
-footer {
-    padding: 100px 0;
+.div-footer{
+	width: 100%;
+	background:  #191919;
 }
 
 #to-top {

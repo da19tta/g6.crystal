@@ -75,8 +75,10 @@
 	height: 100px;
 	background: #151515;
 	position: relative;
-
-
+}
+.div-footer{
+	width: 100%;
+	background:  #191919;
 }
 .fone-header{
 	width: 13%;
@@ -342,12 +344,6 @@
     pointer-events: none;
 }
 
-
-/* Footer */
-
-footer {
-    padding: 100px 0;
-}
 
 #to-top {
     font-size: 1em;
